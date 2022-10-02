@@ -1,16 +1,24 @@
 ### create Virtual Env
-
-#### vitualenv venv
-
+'''bash
+vitualenv venv
+'''
 ### create req text file
-
-### pip install -r requirement.txt
-
+'''bash
+pip install -r requirement.txt
+'''
+'''bash
 git init
-
+'''
+'''bash
 dvc init
-dvc add data_given/winequality.csv    ## by doing this it will creat a .dvc file of the dataset and will not push the real dataset to git repo
-
+'''
+'''bash
+dvc add data_given/winequality.csv
+'''
+## by doing this it will creat a .dvc file of the dataset and will not push the real dataset to git repo
+'''bash
 git add .
-
+'''
+'''bash
 git commit -m "first commit"
+'''
