@@ -1,5 +1,5 @@
 ### create Virtual Env
-'''bash
+'''cmd
 vitualenv venv
 '''
 ### create req text file
