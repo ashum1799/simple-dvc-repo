@@ -6,3 +6,6 @@ numpy
 joblib
 pytest
 tox
+flake8
+flask
+gunicorn
