@@ -1,6 +1,7 @@
 dvc
 dvc[gdrive]
 sklearn
+PyYAML
 pandas
 numpy
 joblib
@@ -9,4 +10,3 @@ tox
 flake8
 flask
 gunicorn
-PyYAML
